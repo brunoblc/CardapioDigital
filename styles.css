@@ -64,9 +64,9 @@ h3{
 }
 
 .produto-destaque img {
-    width: auto;
+    max-width: 100vw; 
     height: auto;
-    transition: opacity 0.5s ease, visibility 0.5s ease;
+    width: 100%;
 }
 
 .produto-destaque .descricao {
